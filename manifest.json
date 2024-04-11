@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Make HAMtte Better",
+    "version": "1.0",
+    "description": "Make HAMtte Better",
+    "content_scripts": [
+        {
+            "matches": ["https://mbr.jard.or.jp/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
