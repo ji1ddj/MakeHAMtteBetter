@@ -1,7 +1,7 @@
 # Make HAMtte Better
 
 Make HAMtte BetterはGoogle Chromeの機能拡張です。
-JARDが運営する養成講座等の卒業生向けのウェブサイトHAMtte https://mbr.jard.or.jp/ にウェブフォントのNoto Sansを適用することで可読性を上げます。
+JARDが運営する養成講座等の修了者向けのウェブサイトHAMtte https://mbr.jard.or.jp/ にウェブフォントのNoto Sansを適用することで可読性を上げます。
 
 ## インストール方法
 
